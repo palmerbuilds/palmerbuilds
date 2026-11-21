@@ -40,13 +40,15 @@ local-first database that runs on a shop-floor machine with no internet.
 
 ### Available for
 
-Contract and 1099 engagements — fixed-scope builds, quoting-workflow audits, and configuration of an
-existing CPQ. Remote, US time zones, comfortable working inside someone else's repo and review process.
+Contract and 1099 engagements through **Pinteq LLC** — fixed-scope builds, quoting-workflow audits, and
+configuration of an existing CPQ. Remote, US time zones, comfortable working inside someone else's repo
+and review process.
 
 - Upwork: https://www.upwork.com/freelancers/~0157f09ad4e22df7c3
 - Email: matthewpalmer.mi@gmail.com
 
 ---
 
-<sub>Private repositories here are client work by default. Everything public is code I own outright
-and can talk about.</sub>
+<sub>Pinteq LLC is the consulting entity — contracts, invoices, and the licence on my public repositories
+are in its name. Private repositories here are client work by default. Everything public is code Pinteq
+LLC owns outright and I can talk about.</sub>
